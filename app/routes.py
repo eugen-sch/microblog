@@ -12,7 +12,7 @@ def index():
         },
         {
             'author':{'username': 'Susanne'},
-            'body': 'Kann ich noch en Glas Wein?'
+            'body': 'Kann ich noch en Glas Wein? Bitte!'
         }
     ]
     return render_template('index.html', title='Home', user=user, posts=posts)
