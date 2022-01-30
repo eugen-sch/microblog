@@ -1,0 +1,6 @@
+Das Tutorial von Miguel Grinberg erstreckt sich über 18 Teile.
+
+1. The Flask Mega-Tutorial Part I: Hello, World!
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world 
+2. The Flask Mega-Tutorial Part II: Templates 
+3. The Flask Mega-Tutorial Part III: Web Forms 
